@@ -109,4 +109,5 @@ git clone https://github.com/PaperMC/Folia.git
      ```
 
 ## Acknowledgements
+- [PaperMC/Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
 - [Slackadays/FoliaToGo](https://github.com/Slackadays/FoliaToGo) - 🥡🤖 Nightly builds of the Folia server jar, ready-to-use, right here
